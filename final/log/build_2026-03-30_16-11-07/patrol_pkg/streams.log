@@ -1,0 +1,30 @@
+[0.586s] Invoking command in '/home/soethutun/final/src/patrol_pkg': PYTHONPATH=/home/soethutun/final/build/patrol_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/soethutun/final/install/patrol_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/patrol_pkg build --build-base /home/soethutun/final/build/patrol_pkg/build install --record /home/soethutun/final/build/patrol_pkg/install.log --single-version-externally-managed install_data
+[0.769s] running egg_info
+[0.769s] writing ../../build/patrol_pkg/patrol_pkg.egg-info/PKG-INFO
+[0.769s] writing dependency_links to ../../build/patrol_pkg/patrol_pkg.egg-info/dependency_links.txt
+[0.770s] writing entry points to ../../build/patrol_pkg/patrol_pkg.egg-info/entry_points.txt
+[0.770s] writing requirements to ../../build/patrol_pkg/patrol_pkg.egg-info/requires.txt
+[0.770s] writing top-level names to ../../build/patrol_pkg/patrol_pkg.egg-info/top_level.txt
+[0.771s] reading manifest file '../../build/patrol_pkg/patrol_pkg.egg-info/SOURCES.txt'
+[0.771s] adding license file 'LICENSE'
+[0.772s] writing manifest file '../../build/patrol_pkg/patrol_pkg.egg-info/SOURCES.txt'
+[0.772s] running build
+[0.772s] running build_py
+[0.772s] copying patrol_pkg/virutal_sensor_tf.py -> /home/soethutun/final/build/patrol_pkg/build/lib/patrol_pkg
+[0.772s] running install
+[0.772s] running install_lib
+[0.773s] copying /home/soethutun/final/build/patrol_pkg/build/lib/patrol_pkg/virutal_sensor_tf.py -> /home/soethutun/final/install/patrol_pkg/lib/python3.10/site-packages/patrol_pkg
+[0.774s] byte-compiling /home/soethutun/final/install/patrol_pkg/lib/python3.10/site-packages/patrol_pkg/virutal_sensor_tf.py to virutal_sensor_tf.cpython-310.pyc
+[0.774s] running install_data
+[0.774s] copying launch/world_test.launch.py -> /home/soethutun/final/install/patrol_pkg/share/patrol_pkg/launch
+[0.774s] running install_egg_info
+[0.775s] removing '/home/soethutun/final/install/patrol_pkg/lib/python3.10/site-packages/patrol_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.776s] Copying ../../build/patrol_pkg/patrol_pkg.egg-info to /home/soethutun/final/install/patrol_pkg/lib/python3.10/site-packages/patrol_pkg-0.0.0-py3.10.egg-info
+[0.776s] running install_scripts
+[0.790s] Installing controller_node script to /home/soethutun/final/install/patrol_pkg/lib/patrol_pkg
+[0.790s] Installing monitor_node script to /home/soethutun/final/install/patrol_pkg/lib/patrol_pkg
+[0.790s] Installing my_node script to /home/soethutun/final/install/patrol_pkg/lib/patrol_pkg
+[0.791s] Installing sensor_node script to /home/soethutun/final/install/patrol_pkg/lib/patrol_pkg
+[0.791s] Installing virtual_sensor_tf script to /home/soethutun/final/install/patrol_pkg/lib/patrol_pkg
+[0.791s] writing list of installed files to '/home/soethutun/final/build/patrol_pkg/install.log'
+[0.812s] Invoked command in '/home/soethutun/final/src/patrol_pkg' returned '0': PYTHONPATH=/home/soethutun/final/build/patrol_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/soethutun/final/install/patrol_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/patrol_pkg build --build-base /home/soethutun/final/build/patrol_pkg/build install --record /home/soethutun/final/build/patrol_pkg/install.log --single-version-externally-managed install_data

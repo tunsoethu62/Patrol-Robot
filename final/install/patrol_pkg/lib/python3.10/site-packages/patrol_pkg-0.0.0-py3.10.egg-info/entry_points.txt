@@ -1,0 +1,7 @@
+[console_scripts]
+controller_node = patrol_pkg.controller_node:main
+monitor_node = patrol_pkg.monitor_node:main
+my_node = patrol_pkg.my_node:main
+sensor_node = patrol_pkg.sensor_node:main
+virtual_sensor_tf = patrol_pkg.virtual_sensor_tf:main
+

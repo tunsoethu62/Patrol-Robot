@@ -1,0 +1,6 @@
+{
+  "package_name": "custom_interfaces",
+  "non_idl_tuples": [
+    "/home/soethutun/final/src/custom_interfaces:msg/ObstacleStatus.msg"
+  ]
+}

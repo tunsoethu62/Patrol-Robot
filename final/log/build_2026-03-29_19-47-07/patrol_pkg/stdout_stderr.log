@@ -1,0 +1,29 @@
+running egg_info
+writing ../../build/patrol_pkg/patrol_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/patrol_pkg/patrol_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/patrol_pkg/patrol_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/patrol_pkg/patrol_pkg.egg-info/requires.txt
+writing top-level names to ../../build/patrol_pkg/patrol_pkg.egg-info/top_level.txt
+reading manifest file '../../build/patrol_pkg/patrol_pkg.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/patrol_pkg/patrol_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying patrol_pkg/sensor_node.py -> /home/soethutun/final/build/patrol_pkg/build/lib/patrol_pkg
+copying patrol_pkg/monitor_node.py -> /home/soethutun/final/build/patrol_pkg/build/lib/patrol_pkg
+running install
+running install_lib
+copying /home/soethutun/final/build/patrol_pkg/build/lib/patrol_pkg/sensor_node.py -> /home/soethutun/final/install/patrol_pkg/lib/python3.10/site-packages/patrol_pkg
+copying /home/soethutun/final/build/patrol_pkg/build/lib/patrol_pkg/monitor_node.py -> /home/soethutun/final/install/patrol_pkg/lib/python3.10/site-packages/patrol_pkg
+byte-compiling /home/soethutun/final/install/patrol_pkg/lib/python3.10/site-packages/patrol_pkg/sensor_node.py to sensor_node.cpython-310.pyc
+byte-compiling /home/soethutun/final/install/patrol_pkg/lib/python3.10/site-packages/patrol_pkg/monitor_node.py to monitor_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/soethutun/final/install/patrol_pkg/lib/python3.10/site-packages/patrol_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/patrol_pkg/patrol_pkg.egg-info to /home/soethutun/final/install/patrol_pkg/lib/python3.10/site-packages/patrol_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing controller_node script to /home/soethutun/final/install/patrol_pkg/lib/patrol_pkg
+Installing monitor_node script to /home/soethutun/final/install/patrol_pkg/lib/patrol_pkg
+Installing my_node script to /home/soethutun/final/install/patrol_pkg/lib/patrol_pkg
+Installing sensor_node script to /home/soethutun/final/install/patrol_pkg/lib/patrol_pkg
+writing list of installed files to '/home/soethutun/final/build/patrol_pkg/install.log'
