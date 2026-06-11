@@ -182,7 +182,3 @@ ros2 run patrol_robot patrol_controller_node \
 - **AMCL QoS** — `/amcl_pose` uses `TRANSIENT_LOCAL` durability; `PoseMonitorNode` matches this automatically when `source=amcl`.
 
 ---
-
-## License
-
-Specify your license here.
